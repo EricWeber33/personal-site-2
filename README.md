@@ -1,2 +1,2 @@
 ## Site Url:
-[ericweber.vercelapp.com](https://ericweber.vercelapp.com)
+[ericweber.vercel.app](https://ericweber.vercel.app)
